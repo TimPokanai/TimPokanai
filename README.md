@@ -1,1 +1,1 @@
-# TimPokanai
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi+I'm+Tim+Pokanai!;Welcome+to+my+Github+%3C3)](https://git.io/typing-svg)
