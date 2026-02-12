@@ -1,7 +1,8 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi+I'm+Tim+Pokanai!;Thanks+for+stopping+by!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi+I'm+Tim+Pokanai!;Thanks+for+http://aqwwiki.wikidot.com/dev:up-to-datestopping+by!)](https://git.io/typing-svg)
 
-![GitHub followers](https://img.shields.io/github/followers/TimPokanai?label=Follow&style=social)
-![GitHub Repo Stars](https://img.shields.io/github/stars/TimPokanai?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Tim-blue?style=flat-square&logo=linkedin)
+### 🎸 About
+5th year Software Engineering student at McMaster University. Passionate about secure and scalable backend and API design, and anything automated. Avid guitar player and reading enjoyer.
+
+[**LinkedIn**](https://linkedin.com/in/timpokanai) | [**Email**](mailto:timpokanai@gmail.com)
 
 ![Snake animation](https://github.com/TimPokanai/TimPokanai/blob/output/github-contribution-grid-snake.svg)
