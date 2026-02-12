@@ -3,7 +3,7 @@
 ## 🎧 Currently Listening
 
 <!-- SPOTIFY_START -->
-Loading...
+Not playing anything
 <!-- SPOTIFY_END -->
 
 
