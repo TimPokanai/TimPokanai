@@ -32,6 +32,8 @@ async function getCurrentlyPlaying(access_token) {
       },
     }
   );
+  console.log("Status code:", response.status);
+  console.log("Raw response:", await response.text());
 
   if (response.status === 204) {
     return null;
