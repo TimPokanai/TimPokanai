@@ -57,6 +57,7 @@ async function getCurrentlyPlaying(access_token) {
   const newReadme = readme.replace(
     /<!-- SPOTIFY_START -->.*<!-- SPOTIFY_END -->/s,
     `<!-- SPOTIFY_START -->\n${status}\n<!-- SPOTIFY_END -->`
+    console.log(status)
   );
 
   fs.writeFileSync("README.md", newReadme);
