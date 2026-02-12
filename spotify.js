@@ -52,6 +52,8 @@ async function getCurrentlyPlaying(access_token) {
       .join(", ")}`;
   }
 
+  console.log("Spotify status:", status);
+
   const readme = fs.readFileSync("README.md", "utf8");
 
   const newReadme = readme.replace(
