@@ -8,11 +8,10 @@ Avid guitar player and music/reading/development enjoyer.
 
 ### 🧭 What I'm doing now
 - Working at CIBC Mellon as a Solution Designer in Enterprise Architecture, IT
-- Preparing for the 
 - Adding ML and automated classification to my project, [budget-data-pipeline](https://github.com/TimPokanai/budget-data-pipeline)
-- Finally building a personal website...
+- Finally built a personal website! Still need to add the rest of my projects onto it...
 - Learning Alabama by Neil Young on guitar
 
-[**LinkedIn**](https://linkedin.com/in/timpokanai) | [**Email**](mailto:timpokanai@gmail.com)
+[**LinkedIn**](https://linkedin.com/in/timpokanai) | [**Email**](mailto:timpokanai@gmail.com) | [**Website**](https://timpokanai.github.io/portfolio/)
 
 ![Snake animation](https://github.com/TimPokanai/TimPokanai/blob/output/github-contribution-grid-snake.svg)
